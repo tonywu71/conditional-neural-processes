@@ -1,4 +1,5 @@
 # Custom
+checkpoints/
 logs/
 .DS_Store
 
